@@ -12,3 +12,7 @@
 	- Un footer
 
 ### Realizada por Bryan Pinto
+
+### Link GitHub Pages
+
+https://bryanpinto.github.io/ClasePresencial10/
